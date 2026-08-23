@@ -1,9 +1,10 @@
 <div align="center">
 
-# Prakhar Saxena
+# PRAKHAR SAXENA
+
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=A277FF&center=true&vCenter=true&width=560&lines=AI+%2F+Agentic+Solutions+Engineer;Data+Analyst+%7C+Power+BI+%2B+SQL;Machine+Learning+Practitioner;Final-Year+CS+Student%2C+AKTU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=A277FF&center=true&vCenter=true&width=560&lines=AI+%2F+Agentic+Solutions+Engineer;Data+Analyst+%7C+Power+BI+%2B+SQL;Machine+Learning+Practitioner;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +20,7 @@
 
 ## About
 
-Final-year Computer Science student focused on applied machine learning and data analytics.  Building AI-driven and agentic systems (multi-agent pipelines, predictive models, ML-backed web apps), and delivering data analytics work in SQL and Power BI, including DAX-driven reporting.
+Final-year Computer Science student focused on applied machine learning and data analytics |  Building AI-driven and agentic systems (multi-agent pipelines, predictive models, ML-backed web apps), and delivering data analytics work in SQL and Power BI, including DAX-driven reporting.
 
 My approach is to ship complete, working systems rather than isolated notebooks — each project below includes a live deployment. Open to internship and entry-level roles in **AI/Agentic Solutions Engineering** and **Data Analytics**.
 
@@ -64,18 +65,13 @@ My approach is to ship complete, working systems rather than isolated notebooks 
 
 ## GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tameszn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tameszn&theme=tokyonight&hide_border=true" width="49%" />
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tameszn&theme=tokyo-night&hide_border=true&area=true" width="99%" />
+  <img src="https://raw.githubusercontent.com/tameszn/tameszn/output/github-contribution-grid-snake-dark.svg" width="99%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tameszn&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
+
 
 <br/>
 
