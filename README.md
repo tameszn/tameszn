@@ -4,7 +4,7 @@
 
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=A277FF&center=true&vCenter=true&width=560&lines=AI+%2F+Agentic+Solutions+Engineer;Data+Analyst+%7C+Power+BI+%2B+SQL;Machine+Learning+Practitioner;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=300&size=22&duration=2500&pause=900&color=FBC0E7FF&center=true&vCenter=true&width=560&lines=AI+%2F+Agentic+Solutions+Engineer;Data+Analyst+%7C+Power+BI+%2B+SQL;Machine+Learning+Practitioner;" alt="Typing SVG" />
 </a>
 
 <br/>
